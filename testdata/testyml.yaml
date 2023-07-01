@@ -1,0 +1,12 @@
+...
+test1:
+    goingfrom: Brussel Airport
+    goingto: Budapest Airport
+    date: 22/02/2023
+    stops: 1 Stop
+test2:
+    goingfrom: LHR London Heathrow Airport
+    goingto: HEL Helsinki all airports
+    date: 6/02/2023
+    stops: 1 Stop
+...
